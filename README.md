@@ -1,10 +1,10 @@
 # twitter-sentiment-analysis
 
-use snscrape to scrape tweets from specific twitter user account
+use snscrape to scrape tweets from specific twitter account
 
-perform basic twitter sentiment analysis using textblob and export to csv
+perform basic sentiment analysis using textblob
 
-can input any user and scrape their most recent 100 tweets
+can input any user and scrape their most recent 100 tweets (can change value on line 17)
 
 performs sentiment analysis for polarity and subjectivity 
 
